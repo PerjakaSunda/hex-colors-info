@@ -13,7 +13,7 @@ npm install hex-colors-info
 ```javascript
 // Example
 
-const hexColorInfo = require ('./')
+const hexColorInfo = require ('hex-colors-info')
 const colorInfo = hexColorInfo('#48D1CC')
 
 console.log(colorInfo)
