@@ -1,0 +1,16 @@
+{
+  "name": "hex-colors-info",
+  "version": "1.0.0",
+  "description": "Get color name and other informations from Hex Color Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ihsan MSTF <ihsanmchink@gmail.com> (https://mystuff.world)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PerjakaSunda/hex-colors-info.git"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/PerjakaSunda/hex-colors-info"
+}
